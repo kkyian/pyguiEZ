@@ -1,0 +1,5 @@
+{
+  "python.analysis.extraPaths": ["src"],
+  "python.defaultInterpreterPath": "/Users/kkchen/Library/Caches/pypoetry/virtualenvs/pyguiez-W6teW38B-py3.13"
+}
+
