@@ -1,5 +1,12 @@
 pyguiEZ
 =======
+.. image:: https://img.shields.io/pypi/v/pyguiEZ.svg
+    :target: https://pypi.org/project/pyguiEZ/
+    :alt: PyPI version
+
+.. image:: https://img.shields.io/pypi/pyversions/pyguiEZ.svg
+    :target: https://pypi.org/project/pyguiEZ/
+    :alt: Python versions
 
 A lightweight, beginner-friendly GUI framework inspired by tkinter, built with pygame.
 
